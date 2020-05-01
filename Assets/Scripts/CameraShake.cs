@@ -18,6 +18,7 @@ public class CameraShake : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.F))
         {
            cameraShake();
+           //shake the camera
         }
     }
 }
