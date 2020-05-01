@@ -7,9 +7,11 @@ public class Player : MonoBehaviour
 {
     public static GameObject player;
     public Vector2 spawnPos;
-
+     
     [Header("Properties")]
     public int collectibles = 0;
+
+   
 
     [Header("UI")]
     public TextMeshProUGUI txt_collectibles;
