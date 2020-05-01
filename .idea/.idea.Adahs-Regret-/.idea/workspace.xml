@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56466f2f-35ef-432a-939c-c1bcdb4fe188" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SpellsController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1588230621027" expanded="true" signature="6:78" ph="..." />
+                <marker date="1588230621027" expanded="true" signature="125:469" ph="{...}" />
+                <marker date="1588230621027" expanded="true" signature="243:467" ph="{...}" />
+                <marker date="1588230621027" expanded="true" signature="289:461" ph="{...}" />
+                <marker date="1588230621027" expanded="true" signature="387:451" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraShake.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <folding>
+                <marker date="1588350744318" expanded="true" signature="6:92" ph="..." />
+                <marker date="1588350744318" expanded="true" signature="134:380" ph="{...}" />
+                <marker date="1588350744318" expanded="true" signature="202:252" ph="{...}" />
+                <marker date="1588350744318" expanded="true" signature="279:378" ph="{...}" />
+                <marker date="1588350744318" expanded="true" signature="326:372" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Animator Tests/FollowCharacterAn.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <marker date="1588230621021" expanded="false" signature="6:78" ph="..." />
+                <marker date="1588230621021" expanded="true" signature="126:952" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="133:335" ph="VARiABLES" />
+                <marker date="1588230621021" expanded="true" signature="341:513" ph="UNITY CALLBACKS" />
+                <marker date="1588230621021" expanded="true" signature="389:432" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="462:498" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="519:950" ph="PRIVATE MEHTODS" />
+                <marker date="1588230621021" expanded="true" signature="581:700" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="732:935" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Animator Tests/CharacterMovmentAn.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1588230621021" expanded="false" signature="6:78" ph="..." />
+                <marker date="1588230621021" expanded="true" signature="127:3546" ph="{...}" />
+                <marker date="1588230621021" expanded="false" signature="134:649" ph="VARIABLES" />
+                <marker date="1588230621021" expanded="true" signature="674:788" ph="{...}" />
+                <marker date="1588230621021" expanded="false" signature="793:958" ph="UNITY CALLBACKS" />
+                <marker date="1588230621021" expanded="true" signature="842:943" ph="{...}" />
+                <marker date="1588230621021" expanded="false" signature="964:3259" ph="PRiVATE METHODS" />
+                <marker date="1588230621021" expanded="true" signature="1029:1516" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="1083:1421" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="1241:1298" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="1355:1411" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="1434:1510" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="1545:1694" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="1722:1868" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="1897:2347" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="2079:2341" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="2389:3011" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="2464:2789" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="2487:2690" ph="/* making the velocity increase when the character is falling ( not to make the weird floating behaviour ) ... */" />
+                <marker date="1588230621021" expanded="true" signature="2825:2881" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="2894:3005" ph="{...}" />
+                <marker date="1588230621021" expanded="true" signature="3097:3244" ph="{...}" />
+                <marker date="1588230621021" expanded="false" signature="3265:3544" ph="Courotines" />
+                <marker date="1588230621021" expanded="true" signature="3397:3529" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Animator Tests/CharacterAnimationsAn.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <marker date="1588350265613" expanded="true" signature="6:78" ph="..." />
+                <marker date="1588350265613" expanded="true" signature="130:1353" ph="{...}" />
+                <marker date="1588350265613" expanded="true" signature="137:446" ph="VARIABLES" />
+                <marker date="1588350265613" expanded="true" signature="457:1351" ph="PUBLIC METHODS" />
+                <marker date="1588350265613" expanded="true" signature="524:593" ph="{...}" />
+                <marker date="1588350265613" expanded="true" signature="638:784" ph="{...}" />
+                <marker date="1588350265613" expanded="true" signature="830:984" ph="{...}" />
+                <marker date="1588350265613" expanded="true" signature="1053:1336" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+              <folding>
+                <marker date="1588346688998" expanded="false" signature="6:91" ph="..." />
+                <marker date="1588346688998" expanded="true" signature="128:1735" ph="{...}" />
+                <marker date="1588346688998" expanded="true" signature="358:582" ph="{...}" />
+                <marker date="1588346688998" expanded="true" signature="609:690" ph="{...}" />
+                <marker date="1588346688998" expanded="true" signature="743:901" ph="{...}" />
+                <marker date="1588346688998" expanded="true" signature="799:895" ph="{...}" />
+                <marker date="1588346688998" expanded="true" signature="943:1012" ph="{...}" />
+                <marker date="1588346688998" expanded="true" signature="1040:1733" ph="{...}" />
+                <marker date="1588346688998" expanded="true" signature="1120:1311" ph="{...}" />
+                <marker date="1588346688998" expanded="true" signature="1163:1301" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animator Tests/CharacterMovmentAn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraShake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SpellsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animator Tests/FollowCharacterAn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animator Tests/CharacterAnimationsAn.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Animator Tests/CharacterAnimationsAn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraShake.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-281" />
+    <option name="y" value="92" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56466f2f-35ef-432a-939c-c1bcdb4fe188" name="Default Changelist" comment="" />
+      <created>1588239411017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588239411017</updated>
+      <workItem from="1588239428417" duration="500000" />
+      <workItem from="1588344618406" duration="5168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5668000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25253063" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" weight="0.32977587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/SpellsController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1588230621027" expanded="true" signature="6:78" ph="..." />
+            <marker date="1588230621027" expanded="true" signature="125:469" ph="{...}" />
+            <marker date="1588230621027" expanded="true" signature="243:467" ph="{...}" />
+            <marker date="1588230621027" expanded="true" signature="289:461" ph="{...}" />
+            <marker date="1588230621027" expanded="true" signature="387:451" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <marker date="1588346688998" expanded="false" signature="6:91" ph="..." />
+            <marker date="1588346688998" expanded="true" signature="128:1735" ph="{...}" />
+            <marker date="1588346688998" expanded="true" signature="358:582" ph="{...}" />
+            <marker date="1588346688998" expanded="true" signature="609:690" ph="{...}" />
+            <marker date="1588346688998" expanded="true" signature="743:901" ph="{...}" />
+            <marker date="1588346688998" expanded="true" signature="799:895" ph="{...}" />
+            <marker date="1588346688998" expanded="true" signature="943:1012" ph="{...}" />
+            <marker date="1588346688998" expanded="true" signature="1040:1733" ph="{...}" />
+            <marker date="1588346688998" expanded="true" signature="1120:1311" ph="{...}" />
+            <marker date="1588346688998" expanded="true" signature="1163:1301" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Animator Tests/CharacterMovmentAn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1588230621021" expanded="false" signature="6:78" ph="..." />
+            <marker date="1588230621021" expanded="true" signature="127:3546" ph="{...}" />
+            <marker date="1588230621021" expanded="false" signature="134:649" ph="VARIABLES" />
+            <marker date="1588230621021" expanded="true" signature="674:788" ph="{...}" />
+            <marker date="1588230621021" expanded="false" signature="793:958" ph="UNITY CALLBACKS" />
+            <marker date="1588230621021" expanded="true" signature="842:943" ph="{...}" />
+            <marker date="1588230621021" expanded="false" signature="964:3259" ph="PRiVATE METHODS" />
+            <marker date="1588230621021" expanded="true" signature="1029:1516" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="1083:1421" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="1241:1298" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="1355:1411" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="1434:1510" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="1545:1694" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="1722:1868" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="1897:2347" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="2079:2341" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="2389:3011" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="2464:2789" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="2487:2690" ph="/* making the velocity increase when the character is falling ( not to make the weird floating behaviour ) ... */" />
+            <marker date="1588230621021" expanded="true" signature="2825:2881" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="2894:3005" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="3097:3244" ph="{...}" />
+            <marker date="1588230621021" expanded="false" signature="3265:3544" ph="Courotines" />
+            <marker date="1588230621021" expanded="true" signature="3397:3529" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Animator Tests/CharacterAnimationsAn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <marker date="1588350265613" expanded="true" signature="6:78" ph="..." />
+            <marker date="1588350265613" expanded="true" signature="130:1353" ph="{...}" />
+            <marker date="1588350265613" expanded="true" signature="137:446" ph="VARIABLES" />
+            <marker date="1588350265613" expanded="true" signature="457:1351" ph="PUBLIC METHODS" />
+            <marker date="1588350265613" expanded="true" signature="524:593" ph="{...}" />
+            <marker date="1588350265613" expanded="true" signature="638:784" ph="{...}" />
+            <marker date="1588350265613" expanded="true" signature="830:984" ph="{...}" />
+            <marker date="1588350265613" expanded="true" signature="1053:1336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Animator Tests/FollowCharacterAn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <marker date="1588230621021" expanded="false" signature="6:78" ph="..." />
+            <marker date="1588230621021" expanded="true" signature="126:952" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="133:335" ph="VARiABLES" />
+            <marker date="1588230621021" expanded="true" signature="341:513" ph="UNITY CALLBACKS" />
+            <marker date="1588230621021" expanded="true" signature="389:432" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="462:498" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="519:950" ph="PRIVATE MEHTODS" />
+            <marker date="1588230621021" expanded="true" signature="581:700" ph="{...}" />
+            <marker date="1588230621021" expanded="true" signature="732:935" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraShake.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <marker date="1588350744318" expanded="true" signature="6:92" ph="..." />
+            <marker date="1588350744318" expanded="true" signature="134:380" ph="{...}" />
+            <marker date="1588350744318" expanded="true" signature="202:252" ph="{...}" />
+            <marker date="1588350744318" expanded="true" signature="279:378" ph="{...}" />
+            <marker date="1588350744318" expanded="true" signature="326:372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

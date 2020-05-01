@@ -15,6 +15,7 @@ public class CharacterAnimationsAn : MonoBehaviour
     const string takeoffBoolValue = "IsTakingOff";
     const string falingDownBoolValue = "IsFallingDown";
     #endregion
+    
 
     #region PUBLIC METHODS
 
