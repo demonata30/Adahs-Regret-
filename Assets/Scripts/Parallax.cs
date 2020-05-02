@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Parallax : MonoBehaviour
 {
+
+    
     private float length;
     private float startPos;
 
@@ -30,4 +32,5 @@ public class Parallax : MonoBehaviour
         else if (temp < startPos - length)
             startPos -= length;
     }
+    
 }
